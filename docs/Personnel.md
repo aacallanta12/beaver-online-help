@@ -1,7 +1,7 @@
 # Personnel
 
 ## Add Employee
-	How to add employee
+	How to add employee.
 ## Employeelist
 	How to view specific Employee.
 ## Position List
