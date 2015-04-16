@@ -4,26 +4,6 @@
 >Select Personnel on upper right of the screen to be able to view employee list, 
 >add employee, add and edit position, add and edit tag.
 ## Add Employee
-<<<<<<< HEAD
-	
-## Employeelist
-+ For you to view the latest employee list navigate first to Personnel on the upper middle right and click
->
-![Image](img/employeelist1.png)
->
-and this will show you..
->
-![Image](img/employeelist2.png)
->
-+ To edit the information of a specific employee you should click the name of the employee from the list and this will prompt
->
-![Image](img/employeelist3.png)
->
-and click edit button to enable the field dont forget to save your edits!.
-
-## Position List
-	Add edit position..
-=======
 ![Image](img/addemployee2.jpg "Title")
 >
 > + Click Add Employee on the left side of the screen to be able to add an employee.
@@ -46,8 +26,22 @@ and click edit button to enable the field dont forget to save your edits!.
 ![Image](img/addemployee5.jpg "Title")
 >
 > + Finally Click Save button to submit the form. Clear button is also provided to reset the form back to its original phase.
-
+	
 ## Employeelist
++ For you to view the latest employee list navigate first to Personnel on the upper middle right and click
+>
+![Image](img/employeelist1.png)
+>
+and this will show you..
+>
+![Image](img/employeelist2.png)
+>
++ To edit the information of a specific employee you should click the name of the employee from the list and this will prompt
+>
+![Image](img/employeelist3.png)
+>
+and click edit button to enable the field dont forget to save your edits!.
+
 	
 ## Position List
 ![Image](img/positionlist1.jpg "Title")
