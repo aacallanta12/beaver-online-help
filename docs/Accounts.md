@@ -1,10 +1,10 @@
 # Accounts
-![Image](img/accounts1.jpg "Title")
+![Image](img/accounts1.png)
 >
 >Select Accounts on upper right of the screen to be able to add and edit account, and view employee account.
 >
 ## Account List
-![Image](img/accounts2.jpg "Title")
+![Image](img/accounts2.png)
 >
 ![Image](img/accounts3.jpg "Title")
 >

@@ -61,7 +61,7 @@ and click edit button to enable the field dont forget to save your edits!.
 ![Image](img/positionlist3.jpg "Title")
 >
 > + Click edit position button to edit a position. Fill up the form with corresponding information. Then finally click Save Changes or cancel.
->
+
 ## Employee Tags
 ![Image](img/employeetags1.png)
 >
