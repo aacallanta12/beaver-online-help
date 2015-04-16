@@ -5,6 +5,6 @@
 ## Employeelist
 	How to view specific Employee.
 ## Position List
-	Add edit position
+	Add edit position..
 ## Employee Tags
 	Add edit employee tags..
