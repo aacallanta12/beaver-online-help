@@ -1,37 +1,30 @@
 # Personnel
-![Image](img/addemployee1.jpg)
+![Image](img/addemployee1.png)
 >
->
-Select Personnel on upper right of the screen to be able to view employee list, add employee, add and edit position, add and edit tag.
+>Select Personnel on upper right of the screen to be able to view employee list, add employee, add and edit position, add and edit tag.
 ## Add Employee
-![Image](img/addemployee2.jpg "Title")
+![Image](img/addemployee2.png)
 >
-> 
-+ Click Add Employee on the left side of the screen to be able to add an employee.
+> + Click Add Employee on the left side of the screen to be able to add an employee.
 >
-![Image](img/addemployee3.jpg "Title")
+![Image](img/addemployee3.png)
 >
-> 
-+ You can add image on the form by clicking the Upload Picture or Select Image.
-> 
-+ Fill up the form most especially the required fields with valid data.
-> 
-+ Required Fields are the following:
+> + You can add image on the form by clicking the Upload Picture or Select Image.
+> + Fill up the form most especially the required fields with valid data.
+> + Required Fields are the following:
 	+ Last Name
 	+ First Name
 	+ Birthdate
 	+ Gender
 	+ Civil Status
 >
-![Image](img/addemployee4.jpg "Title")
+![Image](img/addemployee4.png)
 >
-> 
-+ You can also add multiple dependents, experience, and character reference by clicking the add button as well  as deleting it if you wish too.
+> + You can also add multiple dependents, experience, and character reference by clicking the add button as well  as deleting it if you wish too.
 >
-![Image](img/addemployee5.jpg "Title")
+![Image](img/addemployee5.png)
 >
-> 
-+ Finally Click Save button to submit the form. Clear button is also provided to reset the form back to its original phase.
+> + Finally Click Save button to submit the form. Clear button is also provided to reset the form back to its original phase.
 	
 ## Employeelist
 + For you to view the latest employee list navigate first to Personnel on the upper middle right and click
@@ -48,17 +41,16 @@ and this will show you..
 >
 and click edit button to enable the field dont forget to save your edits!.
 
-	
 ## Position List
-![Image](img/positionlist1.jpg "Title")
+![Image](img/positionlist1.png)
 >
 > + Click Position List on the left side of the screen to be able to add and edit a position.
 >
-![Image](img/positionlist2.jpg "Title")
+![Image](img/positionlist2.png)
 >
 > + Click add position button to add a position. Fill up the form with corresponding information. Then finally click Save Changes or cancel.
 >
-![Image](img/positionlist3.jpg "Title")
+![Image](img/positionlist3.png)
 >
 > + Click edit position button to edit a position. Fill up the form with corresponding information. Then finally click Save Changes or cancel.
 
