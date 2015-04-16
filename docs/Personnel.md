@@ -1,5 +1,5 @@
 # Personnel
-![Image](img/addemployee1.jpg "Title")
+![Image](img/addemployee1.jpg)
 >
 >Select Personnel on upper right of the screen to be able to view employee list, 
 >add employee, add and edit position, add and edit tag.
