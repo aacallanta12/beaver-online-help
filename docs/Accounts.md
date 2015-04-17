@@ -1,7 +1,7 @@
 # Accounts
 ![Image](img/accounts1.png)
 >
->Select Accounts on upper right of the screen to be able to add and edit account, and view employee account.
+>Select Accounts on the upper right of the screen to be able to add and edit account, and view employee account.
 >
 ## Account List
 ![Image](img/accounts2.png)
@@ -12,11 +12,11 @@
 >
 ![Image](img/accounts4.png)
 > 
-> + Clicking Add account button will let you fill up a form in adding an account.
+> + Clicking Add Account button will let you fill up a form in adding an account.
 >
 ![Image](img/accounts5.png)
 > 
-> + Clicking Edit account button will let you fill up a form in editing an account.
+> + Clicking Edit Account button will let you fill up a form in editing an account.
 >
 >
 ## Account Viewer
@@ -24,8 +24,8 @@
 >
 ![Image](img/accounts7.png)
 >
-> + Click Account Viewer on the left side of the screen to be able to view details of an account, edit functionality is enabled accordin to access level.
+> + Click Account Viewer on the left side of the screen to be able to view details of an account. Edit functionality is enabled according to access level of the user.
 >
 ![Image](img/accounts8.png)
 >
-> + Click Button to asign agent to a particular account and team leader.
+> + Click Save Changes button to assign an employee to a particular account and Team Leader.  

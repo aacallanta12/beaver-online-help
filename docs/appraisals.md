@@ -9,16 +9,16 @@ and click A & Q,  A for Attendance and Q for the Quality work of an employee
 
 
 ## Attendance and Quality
-This module is for daily inputs regarding the Quality of work and the attendance of an employee daily.
+This module is for daily inputs regarding the Quality of work and Attendance of an employee.
 ![Image](img/appraisals2.png)
 >
-after clicking A & Q this will you on your screen
+After clicking A & Q this will appear on your screen
 >
 ![Image](img/appraisals3.png)
 >
-+ You can select an account to appraise employee, agent on that specific account
++ You can select an account to appraise an employee on that specific account.
 	+ You can only rate the quality of work form 1-100
-	+ To mark the absent you can select:
+	+ To mark the attendance you can select.
 		+ present
 		+ absent
 		+ day off
@@ -26,11 +26,11 @@ after clicking A & Q this will you on your screen
 
 
 ## Performance
-This module is for listing of teamleads agents.
+This module is for listing of teamlead agents.
 >
 ![Image](img/appraisals4.png)
 >
-+ Uploading facility that uploads the daily scores of an agent. This will only accept a CSV file.
++ There is an uploading facility that uploads the daily scores of an agent. It only accept a CSV file.
 >
 ![Image](img/appraisals5.png)
 >
@@ -44,14 +44,14 @@ This module enables the team leader to view his/her agents performance, quality,
 >
 ![Image](img/appraisals7.png)
 >
-+ Team Leader oversee all PQA of his/her agents agents.
++ Team Leader can oversee all PQA of his/her agents.
 + Use search function to search a specific agents.
-+ Use the dropdown menu on the right side to select an account to list all agents on that accounts.
++ Use the dropdown menu on the right side to sleect an account to list all agents on that selected account.
 
 >
 ![Image](img/appraisals8.png)
 >
-+ To view the breakdown or summarized PQA of a specific agent click the blue button of the breakdown column and it will diplay..
++ To view the breakdown or summarized PQA of a specific agent, click the blue button of the breakdown column to display.
 >
 ![Image](img/appraisals9.png)
 
