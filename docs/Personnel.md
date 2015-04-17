@@ -1,7 +1,7 @@
 # Personnel
 ![Image](img/addemployee1.png)
 >
->Select Personnel on upper right of the screen to be able to view Employee List, Add Employee, Add and Edit Position, Add and Edit edit tag.
+>Select Personnel on the upper right of the screen to be able to view Employee List, Add Employee, Add and Edit Position, Add and Edit tag.
 ## Add Employee
 ![Image](img/addemployee2.png)
 >
@@ -27,11 +27,11 @@
 > + Finally Click Save button to submit the form. Clear button is also provided to reset the form back to its original phase.
 	
 ## Employeelist
-+ For you to view the latest Employee List, first navigate the Personnel on the upper middle right and click .. and this will appear.
++ For you to view the latest Employee List, first navigate the Personnel on the upper middle right and click this.
 >
 ![Image](img/employeelist1.png)
 >
-and this will show you..
+This table will appear.
 >
 ![Image](img/employeelist2.png)
 >
