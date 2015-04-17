@@ -24,7 +24,7 @@
 >
 ![Image](img/addemployee5.png)
 >
-> + Finally Click Save button to submit the form. Clear button is also provided to reset the form back to its original phase.
+> + Click Save Button to submit the form. Clear Button is also provided to reset the form back to its original phase.
 	
 ## Employeelist
 + For you to view the latest Employee List, first navigate the Personnel on the upper middle right and click this.
@@ -39,7 +39,7 @@ This table will appear.
 >
 ![Image](img/employeelist3.png)
 >
-and click Edit bBtton to enable the field. Don't forget to save your edits.
+and click Edit Button to enable the field. Don't forget to save your edits.
 
 ## Position List
 ![Image](img/positionlist1.png)
@@ -48,11 +48,11 @@ and click Edit bBtton to enable the field. Don't forget to save your edits.
 >
 ![Image](img/positionlist2.png)
 >
-> + Click Add Position button to add a position. Fill up the form with corresponding information. Click Save Changes to save the information you created or Close.
+> + Click Add Position Button to add a position. Fill up the form with corresponding information. Click Save Changes to save the information you created or Close.
 >
 ![Image](img/positionlist3.png)
 >
-> + Click edit position button to edit a position. Fill up the form with corresponding information. Then finally click Save Changes or cancel.
+> + Click Edit Position Button to edit a position. Fill up the form with corresponding information. Then click Save Changes or Cancel.
 
 ## Employee Tags
 ![Image](img/employeetags1.png)

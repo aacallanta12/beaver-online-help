@@ -46,7 +46,7 @@ This module enables the team leader to view his/her agents performance, quality,
 >
 + Team Leader can oversee all PQA of his/her agents.
 + Use search function to search a specific agents.
-+ Use the dropdown menu on the right side to sleect an account to list all agents on that selected account.
++ Use the dropdown menu on the right side to select an account to list all agents on the selected account.
 
 >
 ![Image](img/appraisals8.png)

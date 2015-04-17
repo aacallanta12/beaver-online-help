@@ -12,11 +12,11 @@
 >
 ![Image](img/accounts4.png)
 > 
-> + Clicking Add Account button will let you fill up a form in adding an account.
+> + Clicking Add Account Button will let you fill up a form in adding an account.
 >
 ![Image](img/accounts5.png)
 > 
-> + Clicking Edit Account button will let you fill up a form in editing an account.
+> + Clicking Edit Account Button will let you fill up a form in editing an account.
 >
 >
 ## Account Viewer
@@ -28,4 +28,4 @@
 >
 ![Image](img/accounts8.png)
 >
-> + Click Save Changes button to assign an employee to a particular account and Team Leader.  
+> + Click Save Changes Button to assign an employee to a particular account and Team Leader.
