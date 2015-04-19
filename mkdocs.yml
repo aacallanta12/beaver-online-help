@@ -1,2 +1,12 @@
 site_name: Beaver Online Help
+site_url: http://beaver.wiwi.ninja/doc/
+site_description: Project Documentation for Beaver
+
+pages:
+- [index.md, Home]
+- [Personnel.md, Personnel]
+- [Accounts.md, Accounts]
+- [appraisals.md, Appraisals]
+- [reports.md, Reports]
+
 theme: readthedocs
